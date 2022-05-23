@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Epicgym Workouts Plugin
  * Author: Lovro Pavicic
- * Description: Workouts and plans management plugin
+ * Description: Workouts management plugin
  * Version: 1.0
  */
 
